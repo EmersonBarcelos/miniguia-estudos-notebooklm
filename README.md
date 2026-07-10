@@ -5,9 +5,9 @@ Para pessoas que precisam de auxilio em seu negócio para divulgar produtos e im
 Ou até mesmo para pessoas que querem "vender sua própia imagem" como por exemplo estratégias para melhorar seu Linkedln
 Isso tudo visando praticidade e baixo invenstimento
 
-<h2Curadoria de Fontes</h2>
+<h2>Curadoria de Fontes</h2>
 <ul>
-  <li><a href="https://www.serasaexperian.com.br/conteudos/16-estrategias-de-marketing-que-voce-precisa-conhecer/"</a></a>li>
+  <li><a href="https://www.serasaexperian.com.br/conteudos/16-estrategias-de-marketing-que-voce-precisa-conhecer/"</a></li>
 https://br.hubspot.com/blog/sales/marketing-para-vendedores
 https://exame.com/invest/guia/como-divulgar-um-produto-red04/
 https://www.zendesk.com.br/blog/sales/estrategias-de-divulgacao/
