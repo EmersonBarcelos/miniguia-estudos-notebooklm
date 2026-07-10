@@ -1,20 +1,21 @@
-#Contexto e Objetivos:
+<h1>Contexto e Objetivos</h1>
 
 Elaborar uma inteligência artificial direcionada para marketing
 Para pessoas que precisam de auxilio em seu negócio para divulgar produtos e impulsionar vendas
 Ou até mesmo para pessoas que querem "vender sua própia imagem" como por exemplo estratégias para melhorar seu Linkedln
 Isso tudo visando praticidade e baixo invenstimento
 
-#Curadoria de Fontes:
-
-https://www.serasaexperian.com.br/conteudos/16-estrategias-de-marketing-que-voce-precisa-conhecer/
+<h2Curadoria de Fontes</h2>
+<ul>
+  <li><a href="https://www.serasaexperian.com.br/conteudos/16-estrategias-de-marketing-que-voce-precisa-conhecer/"</a></a>li>
 https://br.hubspot.com/blog/sales/marketing-para-vendedores
 https://exame.com/invest/guia/como-divulgar-um-produto-red04/
 https://www.zendesk.com.br/blog/sales/estrategias-de-divulgacao/
 https://www.youtube.com/watch?v=7Ly1PH7jIek
 https://br.hubspot.com/blog/marketing/perfil-do-linkedin
+</ul>
 
-#Engenharia de Prompts:
+<h2>Engenharia de Prompts</h2>
 
 Prompt 1:
 
@@ -136,7 +137,7 @@ Se você seguir esses passos, seu perfil deixará de ser apenas um currículo on
 
 #Miniguia:
 
-Resumo:
+<h2>Resumo</h2>
 
 Essa é uma base mais solida para quem procura uma I.A. mais acertiva em estratégias e dicas para uso de diversos usos relacionados a Marketing fisico e digital, segue algumas aplicações.
 
