@@ -8,11 +8,11 @@ Isso tudo visando praticidade e baixo invenstimento
 <h2>Curadoria de Fontes</h2>
 <ul>
 https://www.serasaexperian.com.br/conteudos/16-estrategias-de-marketing-que-voce-precisa-conhecer/<br>
-https://br.hubspot.com/blog/sales/marketing-para-vendedores
-https://exame.com/invest/guia/como-divulgar-um-produto-red04/
-https://www.zendesk.com.br/blog/sales/estrategias-de-divulgacao/
-https://www.youtube.com/watch?v=7Ly1PH7jIek
-https://br.hubspot.com/blog/marketing/perfil-do-linkedin
+https://br.hubspot.com/blog/sales/marketing-para-vendedores<br>
+https://exame.com/invest/guia/como-divulgar-um-produto-red04/<br>
+https://www.zendesk.com.br/blog/sales/estrategias-de-divulgacao/<br>
+https://www.youtube.com/watch?v=7Ly1PH7jIek<br>
+https://br.hubspot.com/blog/marketing/perfil-do-linkedin<br>
 </ul>
 
 <h2>Engenharia de Prompts</h2>
