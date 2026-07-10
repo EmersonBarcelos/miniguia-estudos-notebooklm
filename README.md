@@ -8,6 +8,7 @@ Isso tudo visando praticidade e baixo invenstimento
 <h2>Curadoria de Fontes</h2>
 <ul>
 https://www.serasaexperian.com.br/conteudos/16-estrategias-de-marketing-que-voce-precisa-conhecer/
+  
 https://br.hubspot.com/blog/sales/marketing-para-vendedores
 https://exame.com/invest/guia/como-divulgar-um-produto-red04/
 https://www.zendesk.com.br/blog/sales/estrategias-de-divulgacao/
